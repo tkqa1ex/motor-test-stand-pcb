@@ -5162,7 +5162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 61.9252 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5810,7 +5810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 142.24 113.538 90)
 			(hide yes)
 			(show_name no)
@@ -6140,7 +6140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 105.1052 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6221,7 +6221,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 117.8052 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7459,7 +7459,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2mΩ"
+		(property "Value" "25mΩ"
 			(at 106.68 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7470,7 +7470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizonta"
 			(at 102.362 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -7551,7 +7551,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 68.2752 74.93 0)
 			(hide yes)
 			(show_name no)
